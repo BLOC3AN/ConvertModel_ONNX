@@ -1,5 +1,7 @@
 # ONNX - Open Neural Network Exchange 
-> *Chuyển mô hình AI từ `tensorflow` sang `onnx`* [$^{[1]}$](https://github.com/onnx/tensorflow-onnx) 
+> *Chuyển mô hình AI từ `tensorflow` sang `onnx`*  
+
+Document: https://github.com/onnx/tensorflow-onnx 
 
 - [ONNX - Open Neural Network Exchange](#onnx---open-neural-network-exchange)
 - [Yêu cầu cấu hình](#yêu-cầu-cấu-hình)
